@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/teaklink/static/css/main.e27076bf.css",
-    "main.js": "/teaklink/static/js/main.615001bb.js",
+    "main.js": "/teaklink/static/js/main.a8a96f26.js",
     "index.html": "/teaklink/index.html",
     "main.e27076bf.css.map": "/teaklink/static/css/main.e27076bf.css.map",
-    "main.615001bb.js.map": "/teaklink/static/js/main.615001bb.js.map"
+    "main.a8a96f26.js.map": "/teaklink/static/js/main.a8a96f26.js.map"
   },
   "entrypoints": [
     "static/css/main.e27076bf.css",
-    "static/js/main.615001bb.js"
+    "static/js/main.a8a96f26.js"
   ]
 }
